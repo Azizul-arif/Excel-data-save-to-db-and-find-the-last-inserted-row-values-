@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DWStock", "DWStock.csproj", "{AA3575E2-04DA-4622-936F-B7198B65D66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3575E2-04DA-4622-936F-B7198B65D66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3575E2-04DA-4622-936F-B7198B65D66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3575E2-04DA-4622-936F-B7198B65D66D}.Debug|x86.ActiveCfg = Debug|x86
+		{AA3575E2-04DA-4622-936F-B7198B65D66D}.Debug|x86.Build.0 = Debug|x86
+		{AA3575E2-04DA-4622-936F-B7198B65D66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3575E2-04DA-4622-936F-B7198B65D66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3575E2-04DA-4622-936F-B7198B65D66D}.Release|x86.ActiveCfg = Release|x86
+		{AA3575E2-04DA-4622-936F-B7198B65D66D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6FC02BE-0539-4F33-AE69-BCB0C3CE55B0}
+	EndGlobalSection
+EndGlobal
